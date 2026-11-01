@@ -1,0 +1,12 @@
+
+# Game save file
+kayit.json
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
