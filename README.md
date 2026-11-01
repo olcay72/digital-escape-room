@@ -53,3 +53,19 @@ Explore all five areas, solve their puzzles, collect the necessary items, and es
 ---
 
 **Developed with Python 🐍**
+
+
+
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](menu.png)
+
+### Gameplay
+![Gameplay](gameplay.png)
+
+### Puzzle System
+![Puzzle](puzzle.png)
+
+### Inventory System
+![Inventory](inventory.png)
